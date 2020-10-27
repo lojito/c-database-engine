@@ -1,0 +1,16 @@
+Paris Saint-Germain,     Thomas Tuchel
+Real Madrid,             Zinedine Zidane
+Bayern Munich,           Hans-Dieter Flick
+Tottenham Hotspur,       Jose Mourinho
+Manchester City,         Pep Guardiola
+Atalanta,                Gian Piero Gasperini
+Juventus,                Maurizio Sarri
+Atletico Madrid,         Diego Simeone
+Liverpool,               Jurgen Klopp
+Napoli,                  Gennaro Gattuso
+Barcelona,               Quique Setien
+Borussia Dortmund,       Lucien Favre
+RB Leipzig,              Julian Nagelsmann
+Lyon,                    Rudi Garcia
+Valencia,                Javi Gracia
+Chelsea,                 Frank Lampard

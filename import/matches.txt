@@ -1,0 +1,23 @@
+Atletico Madrid,       1,      Liverpool,             0,     20-02-18,     Round 16 Leg 1 of 2
+Borussia Dortmund,     2,      Paris Saint-Germain,   1,     20-02-18,     Round 16 Leg 1 of 2
+Atalanta,              4,      Valencia,              1,     20-02-19,     Round 16 Leg 1 of 2
+Tottenham Hotspur,     0,      RB Leipzig,            1,     20-02-19,     Round 16 Leg 1 of 2
+Chelsea,               0,      Bayern Munich,         3,     20-02-25,     Round 16 Leg 1 of 2
+Napoli,                1,      Barcelona,             1,     20-02-25,     Round 16 Leg 1 of 2
+Lyon,                  1,      Juventus,              0,     20-02-26,     Round 16 Leg 1 of 2
+Real Madrid,           1,      Manchester City,       2,     20-02-26,     Round 16 Leg 1 of 2
+RB Leipzig,            3,      Tottenham Hotspur,     0,     20-03-10,     Round 16 Leg 2 of 2
+Valencia,              3,      Atalanta,              4,     20-03-10,     Round 16 Leg 2 of 2
+Paris Saint-Germain,   2,      Borussia Dortmund,     0,     20-03-11,     Round 16 Leg 2 of 2
+Liverpool,             2,      Atletico Madrid,       3,     20-03-11,     Round 16 Leg 2 of 2
+Manchester City,       2,      Real Madrid,           1,     20-08-07,     Round 16 Leg 2 of 2
+Juventus,              2,      Lyon,                  1,     20-08-07,     Round 16 Leg 2 of 2
+Barcelona,             3,      Napoli,                1,     20-08-08,     Round 16 Leg 2 of 2
+Bayern Munich,         4,      Chelsea,               1,     20-08-08,     Round 16 Leg 2 of 2
+Atalanta,              1,      Paris Saint-Germain,   2,     20-08-12,     Quater-final
+RB Leipzig,            2,      Atletico Madrid,       1,     20-08-13,     Quater-final
+Barcelona,             2,      Bayern Munich,         8,     20-08-14,     Quater-final
+Manchester City,       1,      Lyon,                  3,     20-08-15,     Quater-final
+RB Leipzig,            0,      Paris Saint-Germain,   3,     20-08-18,     Semi-final
+Lyon,                  0,      Bayern Munich,         3,     20-08-19,     Semi-final
+Bayern Munich,         1,     Paris Saint-Germain,    0,     20-08-23,     Final

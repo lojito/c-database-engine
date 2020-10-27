@@ -1,0 +1,312 @@
+Gollini,                       Atalanta
+Toloi,                         Atalanta
+Caldara,                       Atalanta
+Palomino,                      Atalanta
+Gosens,                        Atalanta
+Gomez,                         Atalanta
+Freuler,                       Atalanta
+De Roon,                       Atalanta
+Hateboer,                      Atalanta
+Ilicic,                        Atalanta
+Pasalic,                       Atalanta
+Sportiello,                    Atalanta
+Tameze,                        Atalanta
+Czyborra,                      Atalanta
+Muriel,                        Atalanta
+Malinovskyi,                   Atalanta
+Castagne,                      Atalanta
+Zapata,                        Atalanta
+Oblak,                         Atletico Madrid
+Thomas,                        Atletico Madrid
+Koke,                          Atletico Madrid
+Saul Niguez,                   Atletico Madrid
+Morata,                        Atletico Madrid
+Correa,                        Atletico Madrid
+Lemar,                         Atletico Madrid
+Renan Lodi,                    Atletico Madrid
+Savic,                         Atletico Madrid
+Felipe,                        Atletico Madrid
+Vrsaljko,                      Atletico Madrid
+Adan,                          Atletico Madrid
+Gimenez,                       Atletico Madrid
+Llorente,                      Atletico Madrid
+Diego Costa,                   Atletico Madrid
+Vitolo,                        Atletico Madrid
+Carrasco,                      Atletico Madrid
+Hermoso,                       Atletico Madrid
+Ter Stegen,                    Barcelona
+Semedo,                        Barcelona
+Pique,                         Barcelona
+Sergio Busquets,               Barcelona
+Luis Suarez,                   Barcelona
+Messi,                         Barcelona
+Lenglet,                       Barcelona
+Jordi Alba,                    Barcelona
+Sergi Roberto,                 Barcelona
+F. de Jong,                    Barcelona
+Vidal,                         Barcelona
+Neto,                          Barcelona
+Inaki Pena,                    Barcelona
+Rakitic,                       Barcelona
+Dembele,                       Barcelona
+Griezmann,                     Barcelona
+Junior Firpo,                  Barcelona
+Ricard Puig,                   Barcelona
+Fati,                          Barcelona
+Ronald Araujo,                 Barcelona
+Monchu,                        Barcelona
+Mingueza,                      Barcelona
+Reis,                          Barcelona
+Neuer,                         Bayern Munich
+Thiago Alcantara,              Bayern Munich
+Lewandowski,                   Bayern Munich
+Perisic,                       Bayern Munich
+Boateng,                       Bayern Munich
+Goretzka,                      Bayern Munich
+Davies,                        Bayern Munich
+Gnabry,                        Bayern Munich
+Muller,                        Bayern Munich
+Alaba,                         Bayern Munich
+Kimmich,                       Bayern Munich
+Ulreich,                       Bayern Munich
+Hoffmann,                      Bayern Munich
+Odriozola,                     Bayern Munich
+Sule,                          Bayern Munich
+Javi Martinez,                 Bayern Munich
+Coutinho,                      Bayern Munich
+Cuisance,                      Bayern Munich
+Hernandez,                     Bayern Munich
+Tolisso,                       Bayern Munich
+Coman,                         Bayern Munich
+Zirkzee,                       Bayern Munich
+Musiala,                       Bayern Munich
+Burki,                         Borussia Dortmund
+Zagadou,                       Borussia Dortmund
+Hakimi,                        Borussia Dortmund
+Sancho,                        Borussia Dortmund
+Guerreiro,                     Borussia Dortmund
+Hummels,                       Borussia Dortmund
+Haaland,                       Borussia Dortmund
+T. Hazard,                     Borussia Dortmund
+Piszczek,                      Borussia Dortmund
+Emre Can,                      Borussia Dortmund
+Witsel,                        Borussia Dortmund
+Hitz,                          Borussia Dortmund
+Dahoud,                        Borussia Dortmund
+Gotze,                         Borussia Dortmund
+Akanji,                        Borussia Dortmund
+Brandt,                        Borussia Dortmund
+Schmelzer,                     Borussia Dortmund
+Reyna,                         Borussia Dortmund
+Caballero,                     Chelsea
+A. Christensen,                Chelsea
+Kante,                         Chelsea
+Barkley,                       Chelsea
+Abraham,                       Chelsea
+Zouma,                         Chelsea
+Kova─ìic,                      Chelsea
+Mount,                         Chelsea
+Hudson-Odoi,                   Chelsea
+James,                         Chelsea
+Emerson,                       Chelsea
+Kepa,                          Chelsea
+Cumming,                       Chelsea
+Rudiger,                       Chelsea
+Giroud,                        Chelsea
+Batshuayi,                     Chelsea
+Tomori,                        Chelsea
+Broja,                         Chelsea
+Lawrence,                      Chelsea
+Maatsen,                       Chelsea
+Bate,                          Chelsea
+Simeu,                         Chelsea
+Szczesny,                      Juventus
+De Ligt,                       Juventus
+Pjanic,                        Juventus
+Ronaldo,                       Juventus
+Dybala,                        Juventus
+Alex Sandro,                   Juventus
+Danilo,                        Juventus
+Cuadrado,                      Juventus
+Bonucci,                       Juventus
+Rabiot,                        Juventus
+Bentancur,                     Juventus
+Buffon,                        Juventus
+De Sciglio,                    Juventus
+Ramsey,                        Juventus
+Matuidi,                       Juventus
+Higuain,                       Juventus
+Rugani,                        Juventus
+Bernardeschi,                  Juventus
+Gulacsi,                       RB Leipzig
+Angelino,                      RB Leipzig
+Upamecano,                     RB Leipzig
+Sabitzer,                      RB Leipzig
+Werner,                        RB Leipzig
+Klostermann,                   RB Leipzig
+Nkunku,                        RB Leipzig
+Schick,                        RB Leipzig
+Mukiele,                       RB Leipzig
+Halstenberg,                   RB Leipzig
+Laimer,                        RB Leipzig
+Mvogo,                         RB Leipzig
+Haidara,                       RB Leipzig
+Y. Poulsen,                    RB Leipzig
+Forsberg,                      RB Leipzig
+Adams,                         RB Leipzig
+Lookman,                       RB Leipzig
+Olmo,                          RB Leipzig
+Alisson Becker,                Liverpool
+Fabinho,                       Liverpool
+Van Dijk,                      Liverpool
+Wijnaldum,                     Liverpool
+Firmino,                       Liverpool
+Mane,                          Liverpool
+Salah,                         Liverpool
+Gomez,                         Liverpool
+Henderson,                     Liverpool
+Robertson,                     Liverpool
+Alexander-Arnold,              Liverpool
+Adrian,                        Liverpool
+Milner,                        Liverpool
+Keita,                         Liverpool
+Oxlade-Chamberlain,            Liverpool
+Minamino,                      Liverpool
+Origi,                         Liverpool
+Matip,                         Liverpool
+Lopes,                         Lyon
+Denayer,                       Lyon
+Marcelo,                       Lyon
+Aouar,                         Lyon
+Dembele,                       Lyon
+Dubois,                        Lyon
+Marcal,                        Lyon
+Ekambi,                        Lyon
+Cornet,                        Lyon
+Tousart,                       Lyon
+Bruno Guimaraes,               Lyon
+Tatarusanu,                    Lyon
+Andersen,                      Lyon
+Terrier,                       Lyon
+Traore,                        Lyon
+Mendes,                        Lyon
+Tete,                          Lyon
+Caqueret,                      Lyon
+Derson,                        Manchester City
+Walker,                        Manchester City
+Sterling,                      Manchester City
+Gundogan,                      Manchester City
+Jesus,                         Manchester City
+Laporte,                       Manchester City
+Rodri,                         Manchester City
+De Bruyne,                     Manchester City
+Fernandinho,                   Manchester City
+Joao Cancelo,                  Manchester City
+Foden,                         Manchester City
+Bravo,                         Manchester City
+Stones,                        Manchester City
+Zinchenko,                     Manchester City
+Bernardo Silva,                Manchester City
+David Silva,                   Manchester City
+Mahrez,                        Manchester City
+Otamendi,                      Manchester City
+E. Garcia,                     Manchester City
+Doyle,                         Manchester City
+Harwood-Bellis,                Manchester City
+Palmer,                        Manchester City
+Bernabe,                       Manchester City
+Ospina,                        Napoli
+Demme,                         Napoli
+Mario Rui,                     Napoli
+Callejon,                      Napoli
+Fabian Ruiz,                   Napoli
+Mertens,                       Napoli
+Nik. Maksimovic,               Napoli
+Zielinski,                     Napoli
+Di Lorenzo,                    Napoli
+Insigne,                       Napoli
+Manolas,                       Napoli
+Meret,                         Napoli
+Allan,                         Napoli
+Elmas,                         Napoli
+Luperto,                       Napoli
+Politano,                      Napoli
+Hysaj,                         Napoli
+Milik,                         Napoli
+Navas,                         Paris Saint-Germain
+Kimpembe,                      Paris Saint-Germain
+Kehrer,                        Paris Saint-Germain
+Marquinhos,                    Paris Saint-Germain
+Paredes,                       Paris Saint-Germain
+Cavani,                        Paris Saint-Germain
+Neymar,                        Paris Saint-Germain
+Di Maria,                      Paris Saint-Germain
+Bernat,                        Paris Saint-Germain
+Sarabia,                       Paris Saint-Germain
+Gueye,                         Paris Saint-Germain
+Rico,                          Paris Saint-Germain
+Mbappe,                        Paris Saint-Germain
+Icardi,                        Paris Saint-Germain
+Kurzawa,                       Paris Saint-Germain
+Diallo,                        Paris Saint-Germain
+Draxler,                       Paris Saint-Germain
+Kouassi,                       Paris Saint-Germain
+Courtois,                      Real Madrid
+Carvajal,                      Real Madrid
+Eder Militao,                  Real Madrid
+Varane,                        Real Madrid
+E. Hazard,                     Real Madrid
+Kroos,                         Real Madrid
+Benzema,                       Real Madrid
+Modric,                        Real Madrid
+Casemiro,                      Real Madrid
+Mendy,                         Real Madrid
+Rodrygo,                       Real Madrid
+Areola,                        Real Madrid
+Altube,                        Real Madrid
+Nacho,                         Real Madrid
+Marcelo,                       Real Madrid
+Valverde,                      Real Madrid
+Lucas Vazquez,                 Real Madrid
+Jovic,                         Real Madrid
+Asensio,                       Real Madrid
+Brahim Diaz,                   Real Madrid
+Isco,                          Real Madrid
+Vinicius Junior,               Real Madrid
+Javi,                          Real Madrid
+Lloris,                        Tottenham Hotspur
+Alderweireld,                  Tottenham Hotspur
+Winks,                         Tottenham Hotspur
+Lamela,                        Tottenham Hotspur
+Dier,                          Tottenham Hotspur
+Lo Celso,                      Tottenham Hotspur
+Sessegnon,                     Tottenham Hotspur
+Alli,                          Tottenham Hotspur
+Aurier,                        Tottenham Hotspur
+Moura,                         Tottenham Hotspur
+Tanganga,                      Tottenham Hotspur
+Gazzaniga,                     Tottenham Hotspur
+Vertonghen,                    Tottenham Hotspur
+Ndombele,                      Tottenham Hotspur
+Skipp,                         Tottenham Hotspur
+Gedson Fernandes,              Tottenham Hotspur
+Parrott,                       Tottenham Hotspur
+Fagan-Walcott,                 Tottenham Hotspur
+Domenech,                      Valencia
+Mangala,                       Valencia
+Kondogbia,                     Valencia
+Goncalo Guedes,                Valencia
+Soler,                         Valencia
+Parejo,                        Valencia
+Diakhaby,                      Valencia
+Gaya,                          Valencia
+Wass,                          Valencia
+Ferran Torres,                 Valencia
+Maxi Gomez,                    Valencia
+Cillessen,                     Valencia
+Thierry Correia,               Valencia
+Jaume Costa,                   Valencia
+Gameiro,                       Valencia
+Cheryshev,                     Valencia
+Ruben Sobrino,                 Valencia
+Gutierrez,                     Valencia
