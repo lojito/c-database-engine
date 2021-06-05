@@ -2,7 +2,7 @@ This program written in C displays information about the 2019-2020 UEFA Champion
 
 I am using the gcc compiler on Windows 10 but you can use an IDE like Visual Studio if you want. 
 
-To find out how to install and run the gcc compiler on Windows 10 follow this link: https://www.youtube.com/watch?v=40MWdFAGTzg
+To find out how to install and run the gcc compiler on Windows 10 follow this link: https://www.youtube.com/watch?v=hCLIDph7-mU
 
 The database of this project consists of the files manager.bin, team.bin, player.bin, match.bin and round.bin located in the db/data folder. To create them select the 'c' option from the main menu.
 
